@@ -45,10 +45,11 @@
 <br>
 <p>Madera de baja calidad (Pinotea) y madera dura</p>
 <img width="250" alt="resultado8" src="https://github.com/user-attachments/assets/60123b3b-1578-4386-bd8b-691f5e68eea5" />
-<img width="250" alt="resultado5" src="https://github.com/user-attachments/assets/1774ca7d-f535-4c40-8674-536ed9cb70ad" />
+<img width="250" alt="resultado5" src="https://github.com/user-attachments/assets/6ca5e2ca-e8cf-43c0-ba8e-cac19c7e72a1" />
 
 <br><br>
 La Habana, Cuba, 2018 - 2020
+
 
 
 
