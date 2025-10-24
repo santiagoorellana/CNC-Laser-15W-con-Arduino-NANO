@@ -31,11 +31,11 @@
 
 <h2>Resultados</h2>
 <p>Con la máquina CNC terminada, se procedió a realizar pruebas de grabado con diferentes materiales entre los cuales se incluyen distintos tipos de maderas, acrílico rojo, cartulina, papel, tela de mezclilla... </p>
-<img width="303" height="404" alt="resultado1" src="https://github.com/user-attachments/assets/f68603ed-4252-4aa2-aa0f-17a515ef3fa7" />  
+<img width="303" height="281" alt="resultado1" src="https://github.com/user-attachments/assets/b4c3f44f-0f15-4d3c-9724-ba4e6897e9b6" />
 <img width="303" height="261" alt="resultado2" src="https://github.com/user-attachments/assets/fc456e62-5f50-4ec0-bc10-cae113bf3c77" />
 <br>
-<img width="120" height="160" alt="resultado3" src="https://github.com/user-attachments/assets/0d96b3fd-b046-4009-bb31-f201dcf3c627" />  
-<img width="120" height="160" alt="resultado4" src="https://github.com/user-attachments/assets/96acb5ac-5381-41d0-9575-7e1ad2fdf739" />
+<img height="220" alt="resultado3" src="https://github.com/user-attachments/assets/6ccc819e-8da9-424e-a4e3-aafef39e09c8" />
+<img height="220" alt="resultado4" src="https://github.com/user-attachments/assets/96acb5ac-5381-41d0-9575-7e1ad2fdf739" />
 <br>
 <img width="270" height="292" alt="resultado6" src="https://github.com/user-attachments/assets/7a848fab-dd7f-4888-b246-a1862f55ba16" />  
 <img width="279" height="391" alt="resultado7" src="https://github.com/user-attachments/assets/77504350-77c7-4054-b5d0-3d23bd9bea3f" />
@@ -50,6 +50,7 @@ Modificaciones:
 
 1 - Cambio en los pines que controlan los drivers de los motores.
 2 - El ciclo de Homing para eliminar el movimiento en el eje Z que no se utiliza.
+
 
 
 
