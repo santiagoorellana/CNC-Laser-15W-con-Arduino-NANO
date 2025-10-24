@@ -25,18 +25,23 @@
 <img width="360" alt="20190523 estructura v4 con laser" src="https://github.com/user-attachments/assets/647dd309-2831-4014-a854-6dd6b65f8a2c" />
 
 <h2>Terminación de la estructura mecánica de la máquina</h2>
-<p>Con el sistema de ejes aislados se lograron eliminar las oscilaciones y se pudo verificar una mejora en la calidad del grabado. Entonces se procedió a terminar la estructura mecánica colocando los protectores contra la luz laser, colocando las tapas metálicas que protegen los circuitos, se colocaron los interruptores de final de carrera en los ejes X e Y, se colocaron los sujetadores en la bandeja  que soporta los objetos que se graban, se fijó la fuente de alimentación y se colocó un sistema de extracció de humos.</p>
+<p>Con el sistema de ejes aislados se lograron eliminar las oscilaciones y se pudo verificar una mejora en la calidad del grabado. Entonces se procedió a terminar la estructura mecánica colocando los protectores contra la luz laser, colocando las tapas metálicas que protegen los circuitos, se colocaron los interruptores de final de carrera en los ejes X e Y, se colocaron los sujetadores en la bandeja  que soporta los objetos que se graban, se fijó la fuente de alimentación y se colocó un sistema de extracció de humos. Finalmente la máquina CNC quedó así:</p>
 <img height="454" alt="20200210 estructura v5 con final de carrera y protector b" src="https://github.com/user-attachments/assets/7b61bca2-ae49-42c0-aac7-9031d797296e" /> 
 <img height="454" alt="20200210 estructura v5 con final de carrera y protector" src="https://github.com/user-attachments/assets/156acf31-b4ea-492f-bcef-b80d1513d124" />
 
-
-Mejoras finales al sistema y terminación
-
-Resultados
-
-
-
-
+<h2>Resultados</h2>
+<p>Con la máquina CNC terminada, se procedió a realizar pruebas de grabado con diferentes materiales entre los cuales se incluyen distintos tipos de maderas, acrílico rojo, cartulina, papel, tela de mezclilla... </p>
+<img width="303" height="404" alt="resultado1" src="https://github.com/user-attachments/assets/f68603ed-4252-4aa2-aa0f-17a515ef3fa7" />  
+<img width="303" height="261" alt="resultado2" src="https://github.com/user-attachments/assets/fc456e62-5f50-4ec0-bc10-cae113bf3c77" />
+<br>
+<img width="120" height="160" alt="resultado3" src="https://github.com/user-attachments/assets/0d96b3fd-b046-4009-bb31-f201dcf3c627" />  
+<img width="120" height="160" alt="resultado4" src="https://github.com/user-attachments/assets/96acb5ac-5381-41d0-9575-7e1ad2fdf739" />
+<br>
+<img width="270" height="292" alt="resultado6" src="https://github.com/user-attachments/assets/7a848fab-dd7f-4888-b246-a1862f55ba16" />  
+<img width="279" height="391" alt="resultado7" src="https://github.com/user-attachments/assets/77504350-77c7-4054-b5d0-3d23bd9bea3f" />
+<br>
+<img width="281" height="340" alt="resultado8" src="https://github.com/user-attachments/assets/60123b3b-1578-4386-bd8b-691f5e68eea5" />
+<img width="355" height="201" alt="resultado5" src="https://github.com/user-attachments/assets/1774ca7d-f535-4c40-8674-536ed9cb70ad" />
 
 
 Modificado para que funcione con Arduino NANO y el Shield para CNC con NANO.
@@ -45,6 +50,7 @@ Modificaciones:
 
 1 - Cambio en los pines que controlan los drivers de los motores.
 2 - El ciclo de Homing para eliminar el movimiento en el eje Z que no se utiliza.
+
 
 
 
