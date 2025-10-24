@@ -26,8 +26,8 @@
 
 <h2>Terminación de la estructura mecánica de la máquina</h2>
 <p>Con el sistema de ejes aislados se lograron eliminar las oscilaciones y se pudo verificar una mejora en la calidad del grabado. Entonces se procedió a terminar la estructura mecánica colocando los protectores contra la luz laser, colocando las tapas metálicas que protegen los circuitos, se colocaron los interruptores de final de carrera en los ejes X e Y, se colocaron los sujetadores en la bandeja  que soporta los objetos que se graban, se fijó la fuente de alimentación y se colocó un sistema de extracció de humos.</p>
-<img width="454" height="538" alt="20200210 estructura v5 con final de carrera y protector b" src="https://github.com/user-attachments/assets/7b61bca2-ae49-42c0-aac7-9031d797296e" />
-<img width="454" height="605" alt="20200210 estructura v5 con final de carrera y protector" src="https://github.com/user-attachments/assets/156acf31-b4ea-492f-bcef-b80d1513d124" />
+<img height="454" alt="20200210 estructura v5 con final de carrera y protector b" src="https://github.com/user-attachments/assets/7b61bca2-ae49-42c0-aac7-9031d797296e" /> 
+<img height="454" alt="20200210 estructura v5 con final de carrera y protector" src="https://github.com/user-attachments/assets/156acf31-b4ea-492f-bcef-b80d1513d124" />
 
 
 Mejoras finales al sistema y terminación
@@ -45,6 +45,7 @@ Modificaciones:
 
 1 - Cambio en los pines que controlan los drivers de los motores.
 2 - El ciclo de Homing para eliminar el movimiento en el eje Z que no se utiliza.
+
 
 
 
