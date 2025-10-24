@@ -3,7 +3,7 @@
 
 <h2>Experimento con puerto paralelo del PC</h2>
 <p>Con el objetivo de crear una máquina CNC para grabar sobre madera, plásticos y materiales blandos, para construir y comercializar artesanías, se empezó a experimentar con el puerto paralelo LPT1 del PC de escritorio. Se lograron recuperar motores PAP (paso a paso) de impresoras viejas y el carro y carril deslizante de algunas viejas impresoras de cinta. Con ello se construyó una estructura mecánica para mover en los ejes X e Y.</p>
-<img width="832" height="780" alt="20181106_estructura v1" src="https://github.com/user-attachments/assets/1126329d-34f4-4698-b583-abe31e005a5f" />
+<img width="416" alt="20181106_estructura v1" src="https://github.com/user-attachments/assets/c4f99e0a-94a8-42bb-99f0-3f10297a9356" />
 
 
 Compra del Arduino NANO y placa base con drivers POLOLU
@@ -27,5 +27,6 @@ Segundo sistema mecánico aislando el eje Y del eje X para evitar vibraciones
 Mejoras finales al sistema y terminación
 
 Resultados
+
 
 
