@@ -31,11 +31,11 @@
 
 <h2>Resultados</h2>
 <p>Con la máquina CNC terminada, se procedió a realizar pruebas de grabado con diferentes materiales entre los cuales se incluyen distintos tipos de maderas, acrílico rojo, cartulina, papel, tela de mezclilla... </p>
-<img height="300" alt="resultado1" src="https://github.com/user-attachments/assets/b4c3f44f-0f15-4d3c-9724-ba4e6897e9b6" />
-<img height="300" alt="resultado2" src="https://github.com/user-attachments/assets/fc456e62-5f50-4ec0-bc10-cae113bf3c77" />
+<img width="250" alt="resultado1" src="https://github.com/user-attachments/assets/b4c3f44f-0f15-4d3c-9724-ba4e6897e9b6" />
+<img width="250" alt="resultado2" src="https://github.com/user-attachments/assets/fc456e62-5f50-4ec0-bc10-cae113bf3c77" />
 <br>
-<img width="300" alt="resultado3" src="https://github.com/user-attachments/assets/6ccc819e-8da9-424e-a4e3-aafef39e09c8" />
-<img width="300" alt="resultado4" src="https://github.com/user-attachments/assets/96acb5ac-5381-41d0-9575-7e1ad2fdf739" />
+<img width="250" alt="resultado3" src="https://github.com/user-attachments/assets/6ccc819e-8da9-424e-a4e3-aafef39e09c8" />
+<img width="250" alt="resultado4" src="https://github.com/user-attachments/assets/96acb5ac-5381-41d0-9575-7e1ad2fdf739" />
 
 <br>
 <img height="300" alt="resultado6" src="https://github.com/user-attachments/assets/7a848fab-dd7f-4888-b246-a1862f55ba16" />  
@@ -46,6 +46,7 @@
 
 <br><br>
 La Habana, Cuba, 2018 - 2020
+
 
 
 
