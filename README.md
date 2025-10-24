@@ -10,8 +10,13 @@
 <img width="360" alt="20190516 arduino nano con shield y drivers pololu" src="https://github.com/user-attachments/assets/6d623867-f4f1-43f5-9541-e20fff5340b1" /> 
 <img height="360" alt="resultado prueba 2" src="https://github.com/user-attachments/assets/f41684db-ebd7-465f-b153-2e2f72a2c1d8" />
 
-Compra del emisor laser
-<img width="504" height="527" alt="laser 15w 12v" src="https://github.com/user-attachments/assets/fc947720-6d02-41ed-a349-30e707dd7d8e" />
+<p>Luego se probó tambien agregar el tercer eje Z a la máquina CNC utilizando un deslizador de impresora al que se le acortó la longitud. Con las pruebas realizadas se pudo detectar que las configuraciones mecánicas con ejes X, Y y luego Z de la estructura no era muy sólida y permitían oscilaciones que deterioraban la precisión del trabajo.</p>
+<img width="432" alt="ejeY 3" src="https://github.com/user-attachments/assets/4809ed81-cac6-4f55-95d9-c6b3107781a2" />
+<img height="340" alt="20190127 estructura v2" src="https://github.com/user-attachments/assets/463cd4f8-a1b9-48cc-b37c-306f12204397" />
+
+
+<h2>Compra del emisor laser</h2>
+<img width="304" alt="laser 15w 12v" src="https://github.com/user-attachments/assets/fc947720-6d02-41ed-a349-30e707dd7d8e" />
 
 
 Primer sistema mecánico con eje Y sobre eje X
@@ -35,6 +40,7 @@ Modificaciones:
 
 1 - Cambio en los pines que controlan los drivers de los motores.
 2 - El ciclo de Homing para eliminar el movimiento en el eje Z que no se utiliza.
+
 
 
 
