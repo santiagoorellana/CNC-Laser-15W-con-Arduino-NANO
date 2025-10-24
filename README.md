@@ -3,7 +3,7 @@
 
 <h2>Experimento con puerto paralelo del PC</h2>
 <p>Con el objetivo de crear una máquina CNC para grabar sobre madera, plásticos y materiales blandos, para construir y comercializar artesanías, se empezó a experimentar con el puerto paralelo LPT1 del PC de escritorio. Se lograron recuperar motores PAP (paso a paso) de impresoras viejas y el carro y carril deslizante de algunas viejas impresoras de cinta. Con ello se construyó una estructura mecánica para mover en los ejes X e Y.</p>
-<img width="416" alt="20181106_estructura v1" src="https://github.com/user-attachments/assets/c4f99e0a-94a8-42bb-99f0-3f10297a9356" />
+<img width="316" alt="20181106_estructura v1" src="https://github.com/user-attachments/assets/c4f99e0a-94a8-42bb-99f0-3f10297a9356" />
 
 <h2>Compra del Arduino NANO y placa base con drivers POLOLU</h2>
 <p>Utilizar el puerto paralelo del PC permitió verificar el funcionamiento de los motores PAP y los sistemas deslizantes de las impresoras que se emplearon en la estructura de la máquina CNC, pero hacía muy complejo la implementación del software de control y la construcción de los drivers para motores PAP bipolares, por lo que se decidió utilizar una placa de Arduino NANO con su respectiva Shield y Drivers POLOLU para el control de motores bipolares. Como software se decidió utilizar el software libre GRBL que es una librería C++ que con una pequeña modificación se instala en el Arduino NANO y lo convierte en el cerebro de la CNC. Así el Arduino NANO puede recibir los códigos G por el puerto USB. Así fue posible instalar un marcador como herramienta en el CNC y probar el software haciendo un dibujo en papel. Se pudo apreciar que la estructura no era suficientemente estable y oscilaba.</p>
@@ -49,6 +49,7 @@
 
 <br><br>
 La Habana, Cuba, 2018 - 2020
+
 
 
 
