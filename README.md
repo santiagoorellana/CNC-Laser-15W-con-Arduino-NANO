@@ -16,13 +16,15 @@
 
 <h2>Compra del emisor laser</h2>
 <p>Una vez que ya era seguro el funcionamiento del software, se procedió a comprar un emisor LASER de 15 W de potencia para trabajar con madera, plásticos y materiales blandos. Para evitar las oscilaciones mecánicas se regresó a la configuración de eje X e Y, pero esta vez se utilizó un eje Y corto para evitar la soscilaciones al final del eje.</p>
-<img width="350" alt="laser 15w 12v" src="https://github.com/user-attachments/assets/fc947720-6d02-41ed-a349-30e707dd7d8e" />
+<img width="350" alt="laser 15w 12v" src="https://github.com/user-attachments/assets/fc947720-6d02-41ed-a349-30e707dd7d8e" /> 
 <img height="380" alt="20190516 estructura v3 con laser" src="https://github.com/user-attachments/assets/d1a558e5-9c81-4c19-9dac-6d24768b7f1f" />
 
+<h2>Configuración mecánica con ejes X e Y aislados</h2>
+<p>El acortamiento del eje Y no fue suficiente para evitar las oscilacines, en parte porque los deslizadores de las impresoras no estan hechos para soportar peso y además que no son de lata calidad. Son realizados con bujes de cobre que se deslizan sobre una barra de metal y eso trae fricciones y desgastes. Además, el sistema de trasmisión es por cintas dentadas de goma que funcina similar a los sitemas de polea y correa simples. Por este motivo, se decidió adoptar una configuración de estructura con los ejes X e Y aislados. para lograr esto, el eje X mueve una bandeja que soporta el objeto que se va a grabar y el eje Y se coloca sobre un puente fijo y mueve solo al cabezal emisor del Laser. Se colocó el "cerebro" del CNC dentro de una caja metálica para que este protegido y se instaló correctamente el driver del emisor laser.</p>
+<img width="360" alt="20190523 estructura v4 con laser b" src="https://github.com/user-attachments/assets/e1c51f7c-9ac5-4e98-af9a-16482f874dd9" /> 
+<img width="360" alt="20190523 estructura v4 con laser" src="https://github.com/user-attachments/assets/647dd309-2831-4014-a854-6dd6b65f8a2c" />
 
-Primer sistema mecánico con eje Y sobre eje X
 
-Acortamiento del eje Y para evitar vibraciones
 
 Segundo sistema mecánico aislando el eje Y del eje X para evitar vibraciones
 
@@ -41,6 +43,7 @@ Modificaciones:
 
 1 - Cambio en los pines que controlan los drivers de los motores.
 2 - El ciclo de Homing para eliminar el movimiento en el eje Z que no se utiliza.
+
 
 
 
