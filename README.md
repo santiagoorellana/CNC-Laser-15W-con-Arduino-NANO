@@ -16,8 +16,8 @@
 
 <h2>Compra del emisor laser</h2>
 <p>Una vez que ya era seguro el funcionamiento del software, se procedió a comprar un emisor LASER de 15 W de potencia para trabajar con madera, plásticos y materiales blandos. Para evitar las oscilaciones mecánicas se regresó a la configuración de eje X e Y, pero esta vez se utilizó un eje Y corto para evitar la soscilaciones al final del eje.</p>
-<img width="250" alt="laser 15w 12v" src="https://github.com/user-attachments/assets/fc947720-6d02-41ed-a349-30e707dd7d8e" />
-<img height="480" alt="20190516 estructura v3 con laser" src="https://github.com/user-attachments/assets/d1a558e5-9c81-4c19-9dac-6d24768b7f1f" />
+<img width="350" alt="laser 15w 12v" src="https://github.com/user-attachments/assets/fc947720-6d02-41ed-a349-30e707dd7d8e" />
+<img height="380" alt="20190516 estructura v3 con laser" src="https://github.com/user-attachments/assets/d1a558e5-9c81-4c19-9dac-6d24768b7f1f" />
 
 
 Primer sistema mecánico con eje Y sobre eje X
@@ -41,6 +41,7 @@ Modificaciones:
 
 1 - Cambio en los pines que controlan los drivers de los motores.
 2 - El ciclo de Homing para eliminar el movimiento en el eje Z que no se utiliza.
+
 
 
 
