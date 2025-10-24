@@ -34,8 +34,9 @@
 <img height="300" alt="resultado1" src="https://github.com/user-attachments/assets/b4c3f44f-0f15-4d3c-9724-ba4e6897e9b6" />
 <img height="300" alt="resultado2" src="https://github.com/user-attachments/assets/fc456e62-5f50-4ec0-bc10-cae113bf3c77" />
 <br>
-<img height="300" alt="resultado3" src="https://github.com/user-attachments/assets/6ccc819e-8da9-424e-a4e3-aafef39e09c8" />
-<img height="300" alt="resultado4" src="https://github.com/user-attachments/assets/96acb5ac-5381-41d0-9575-7e1ad2fdf739" />
+<img width="300" alt="resultado3" src="https://github.com/user-attachments/assets/6ccc819e-8da9-424e-a4e3-aafef39e09c8" />
+<img width="300" alt="resultado4" src="https://github.com/user-attachments/assets/96acb5ac-5381-41d0-9575-7e1ad2fdf739" />
+
 <br>
 <img height="300" alt="resultado6" src="https://github.com/user-attachments/assets/7a848fab-dd7f-4888-b246-a1862f55ba16" />  
 <img height="300" alt="resultado7" src="https://github.com/user-attachments/assets/77504350-77c7-4054-b5d0-3d23bd9bea3f" />
@@ -43,13 +44,9 @@
 <img height="300" alt="resultado8" src="https://github.com/user-attachments/assets/60123b3b-1578-4386-bd8b-691f5e68eea5" />
 <img height="300" alt="resultado5" src="https://github.com/user-attachments/assets/1774ca7d-f535-4c40-8674-536ed9cb70ad" />
 
+<br><br>
+La Habana, Cuba, 2018 - 2020
 
-Modificado para que funcione con Arduino NANO y el Shield para CNC con NANO.
-
-Modificaciones:
-
-1 - Cambio en los pines que controlan los drivers de los motores.
-2 - El ciclo de Homing para eliminar el movimiento en el eje Z que no se utiliza.
 
 
 
